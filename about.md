@@ -9,8 +9,8 @@ I apply my quantitative skills to financial markets modeling and investment fund
 
 ### More Information
 
-I have my actual certified track records in managing funds, coming soon here!
+I have my actual certified track records in managing investment funds, coming soon here!
 
 ### Contact me
 
-[email@domain.com](mailto:marco@marcolunardi.com)
+[marco@marcolunardi.com](mailto:marco@marcolunardi.com)
