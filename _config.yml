@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/marcolunardi
   instagram:
-  linkedin:
+  linkedin: https://uk.linkedin.com/pub/marco-lunardi/43/585/a23
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
