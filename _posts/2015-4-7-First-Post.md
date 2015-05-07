@@ -5,4 +5,5 @@ title: My First Blog
 
 ## Bootcamp First Post
 
-Launching today my first blog using **Jeckill**!
+So many interesting findings in movie industry through my first individual "Luther" project!
+See my Metis repository on Github!
