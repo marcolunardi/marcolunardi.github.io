@@ -11,3 +11,5 @@ And that Friday is much less crowded with respect to the other weekdays.
 Short weeks in New York?
 
 Check my Metis "Benson" repository to get the Python code!
+
+Analysis Tools: Python Dictionaries
