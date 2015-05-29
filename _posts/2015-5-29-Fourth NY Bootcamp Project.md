@@ -3,7 +3,7 @@ layout: post
 title: Metis NY Data Science Bootcamp - 4th Project!
 ---
 
-###  Twitter Summarizer!  
+###  Twitter in a glance  
 
 
 This is something I needed so much, and then I made it myself!
