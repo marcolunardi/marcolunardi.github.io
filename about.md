@@ -10,7 +10,9 @@ I apply my quantitative skills to financial markets modeling and investment fund
 
 ### More Information
 
-I have my actual certified track records in managing investment funds, coming soon here!
+I'm currently managing an hedge fund (long-short futures) and providing long-only stock trading advisory, with performance that since I started, almost 2 years ago, are comfortably better than those of the respective benchmarks.
+
+I will post here my certified track record very soon!
 
 ### Contact me
 
