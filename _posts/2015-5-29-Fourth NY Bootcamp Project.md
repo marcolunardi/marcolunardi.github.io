@@ -8,7 +8,7 @@ title: Metis NY Data Science Bootcamp - 4th Project!
 
 This is something very simple, but that I needed very much, and then I made it myself.
 
-This app gathers the 200 most recent tweets from the account of your choice, stores them into a MongoDB database, and returns the 10 nouns that are mostly used into them, along with the 10 most used combinations of 2,3 and 4 words.
+This app gathers the 200 most recent tweets from the account of your choice, stores them into a MongoDB database, and then returns the 10 nouns that are mostly used into them, along with the 10 most used combinations of 2,3 and 4 words.
 
 This provides you with a quick view about the most present subjects into the chosen twitter account.
 
