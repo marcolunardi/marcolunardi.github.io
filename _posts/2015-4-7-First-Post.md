@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog
+title: Marco Lunardi's Blog
 ---
 
 ## Bootcamp First Post
