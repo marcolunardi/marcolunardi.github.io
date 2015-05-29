@@ -11,3 +11,5 @@ Is there proportionality between number of Nominations and number of Oscars wins
 What do audience actually favour? Nominated or award winner movies?
 
 Check "luther_deliverables" folder into my Metis repository to see my findings!
+
+Results are summarized into the PPTX presentation.
