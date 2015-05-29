@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis NY Data Science Bootcamp - First Project
+title: Metis New York Data Science Bootcamp - First Project
 ---
 
 ###  MTA NY subway data analysis! 
