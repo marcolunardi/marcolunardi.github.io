@@ -30,6 +30,6 @@ Finally, this very simple app is the starting point of one out of the two projec
 
 Check the ipython notebook in "fletcher_deliverables" folder into my Metis repository to see the code of my app!
 
-Very soon this notebook will be visible on NBViewer and I will add a flask app based upon the same notebook.
+Very soon I will add a flask app based upon the same notebook.
 
 Analysis Tools: Natural Language Processing, APIs, Tweepy, MongoDB 
