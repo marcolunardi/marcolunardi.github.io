@@ -13,3 +13,5 @@ the success rate of the sale campaigns.
 Check "mcnulty_deliverables" folder into my Metis repository to see my findings!
 
 Analysis results are summarized into the D3 PDF file.
+
+Analysis Tools: Machine Learning Algorithms, Supervised Learning, Cross Validation
