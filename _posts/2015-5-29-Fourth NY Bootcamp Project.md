@@ -8,7 +8,7 @@ title: Metis NY Data Science Bootcamp - 4th Project!
 
 This is something very simple, but that I needed very much, and then I made it myself.
 
-I started also from the lessons I learnt from my previous NLP project (see it at: https://marcolunardi.shinyapps.io/Text_Prediction and http://www.rpubs.com/marcoluna/68241); it was written in R, and not so accurate, 'cause also of training data size constraints imposed by the shinyapps website.
+I started also from the lessons I learnt from my previous NLP project (see it at: http://www.rpubs.com/marcoluna/68241 and https://marcolunardi.shinyapps.io/Text_Prediction); it was written in R, and not so accurate, 'cause also of training data size constraints imposed by the shinyapps website.
 
 The new app I wrote in Python gathers the 200 most recent tweets from the account of your choice, stores them into a MongoDB database, and then returns the 10 nouns that are mostly used into them, along with the 10 most used combinations of 2,3 and 4 words.
 
