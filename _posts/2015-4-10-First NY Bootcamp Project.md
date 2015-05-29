@@ -3,7 +3,7 @@ layout: post
 title: Metis NY Data Science Bootcamp - 1st Project!
 ---
 
-###  MTA NY subway data analysis 
+###  MTA NY Subway data analysis 
 
 
 It turns out that the most crowded Subway Station in NYC is 34 St. Penn!
