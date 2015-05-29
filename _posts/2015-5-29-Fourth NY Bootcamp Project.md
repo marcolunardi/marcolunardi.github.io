@@ -28,7 +28,7 @@ A good thing about this app is that it doesn't require to gather historical data
 
 Finally, this very simple app is the starting point of one out of the two projects I'm considering as my final project for the Metis Bootcamp.
 
-Check the ipython notebook in "fletcher_deliverables" folder into my Metis repository to see the code of my app!
+Check the ipython notebook in "fletcher_deliverables" folder into my Metis repository to see a preview of how the app works!
 
 Very soon I will add a flask app based upon the same notebook.
 
