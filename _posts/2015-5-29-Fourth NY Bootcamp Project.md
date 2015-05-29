@@ -6,27 +6,27 @@ title: Metis NY Data Science Bootcamp - 4th Project!
 ###  Twitter in a glance  
 
 
-This is something I needed very much, and then I made it myself.
+This is something very simple, but that I needed very much, and then I made it myself.
 
-This app gather the 200 most recent tweets from the account of your choice, and returns the 10 most used nouns into them,
-along with the 10 most used combinations of 2,3 and 4 words.
+This app gathers the 200 most recent tweets from the account of your choice, stores them into a MongoDB database, and returns the 10 nouns that are mostly used into them, along with the 10 most used combinations of 2,3 and 4 words.
 
 This provides you with a quick view about the most present subjects into the chosen twitter account.
 
-Once you got a view about all the recent tweets, you can now choose the noun of your interest (the keyword), and select just the tweets containing that noun.
+Once you got a view about all the recent tweets, you can now choose the noun of your interest (the "keyword"), and the app will select just the tweets containing that noun out of all the 200 gathered tweets.
 
 The app then will return the 5 most used verbs, adjectives, nouns (excluded the keyword), and adverbs in order to 
 likely compose a "most used sentence".
 
 Along with that, the app will return the 5 most present combinations of 2,3, and 4 words used into the selected tweets.
 
-This app is very useful to me in order to get a very quick view of the most clear trends developed through the day
-into the main financial markets. I'm using it on a daily basis and it works quite well in giving me useful hints
-in a very glance about the main trends on the financial markets. I used it mostly on Yahoo Finance and Market Watch Twitter accounts.
+This app is quite useful to me in order to get a very quick view of the most clear trends developed through the day
+into the main financial markets. Since I created it a few days ago, I'm using it on a daily basis, mostly on Yahoo Finance and Market Watch Twitter accounts, and I'm very satisfied with the outcomes.
 
-But it works also on accounts not related to financial matters.
+But it works quite well even on other accounts, not related to financial matters.
 
-Finally, this is the starting point of one out of the two projects I'm considering as my final project for the bootcamp.
+A good thing about this app is that it doesn't require to gather historical data to work well, since it's focused on recent events, and so it's also very fast in its responses.
+
+Finally, this very simple app is the starting point of one out of the two projects I'm considering as my final project for the Metis Bootcamp.
 
 Check the ipython notebook in "fletcher_deliverables" folder into my Metis repository to see the code of my app!
 
