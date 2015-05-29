@@ -3,8 +3,11 @@ layout: post
 title: Marco Lunardi's Blog
 ---
 
-## Bootcamp First Post
+## Data Science Bootcamp - First Project! (Benson)
 
-So many interesting findings in movie industry through my first individual "Luther" project!
 
-See my Metis repository on Github!
+It turns out that the most crowded Subway Station in NYC is 34 St. Penn!
+And that Friday is much less crowded with respect to the other weekdays.
+Short weeks in New York?
+
+See my Metis repository on my Github for the Python code!
