@@ -21,3 +21,5 @@ I tried various machine learning algorithms to train my model, but finally the R
 of the generalized Linear Regression models got the job done in the best way, with results even more accurate than my best reasonable expectations.
 
 Check "final_project" folder into my Metis repository to see the final outcomes!
+
+https://github.com/marcolunardi/metis/tree/master/final_project
