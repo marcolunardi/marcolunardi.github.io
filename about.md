@@ -10,7 +10,7 @@ I apply my quantitative skills to financial markets modeling and investment fund
 
 ### More Information
 
-I'm currently managing an hedge fund (long-short futures) and providing long-only stock trading advisory, with performances that since I started, almost 2 years ago, are comfortably better than the benchmark references.
+I'm currently managing an hedge fund (long-short futures) and providing long-only stock trading advisory, with performances that since I started, almost 2 years ago, are comfortably better than the reference benchmarks.
 
 I will post my certified track records here very soon!
 
