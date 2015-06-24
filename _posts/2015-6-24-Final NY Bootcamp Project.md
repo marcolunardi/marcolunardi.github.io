@@ -3,7 +3,7 @@ layout: post
 title: Metis NY Data Science Bootcamp - Final Project!
 ---
 
-###  Optimizing Options Trading 
+###  Optimizing Options Trading on Financial Markets
 
 
 The idea for the final project came to me quite easily.
