@@ -19,4 +19,4 @@ when focused on predicting the exact final price of the month, as expected.
 I tried various machine learning algorithms to train my model, but finally the Ridge, Lasso and Elastic Net variants
 on the generalized Regression models got the job done in the best way, with results even more accurate than I was expecting.
 
-Check "final_project" folder into my Metis repository to see the outcomes!
+Check "final_project" folder into my Metis repository to see the final outcomes!
