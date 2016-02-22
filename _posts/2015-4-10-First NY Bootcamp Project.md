@@ -5,7 +5,7 @@ title: Metis NY Data Science Bootcamp - 1st Project!
 
 ###  MTA NY Subway data analysis 
 
-This had been a really interesting project, also thank to the great teammeates I was very lucky to work with: [Luc Demortier](http://lucdemortier.github.io), Ha Luu, and Gina Soileau.
+This had been a really interesting project, also thank to the great teammates I was very lucky to work with: [Luc Demortier](http://lucdemortier.github.io), Ha Luu, and Gina Soileau.
 
 It turns out that the most crowded Subway Station in NYC is 34 St. Penn!
 And that Friday is much less crowded with respect to the other weekdays.
