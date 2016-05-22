@@ -16,4 +16,4 @@ Obviously that can change depending upon the situation you have, but look at the
 
 A sold condor strategy like that displayed in the below video could more than halve its at-now overall profits (all other things being equal) even when you are just two days away from the expiration date.
 
-I know the graph is quite sketchy, but I intentionally wanted to show how, even by sticking to basic Python tools, some effective viz stuff can be created. 
+I know the graph is quite sketchy, but I intentionally wanted to show how some effective viz stuff can be created even by sticking to basic Python tools like Matplotlib Animation. 
