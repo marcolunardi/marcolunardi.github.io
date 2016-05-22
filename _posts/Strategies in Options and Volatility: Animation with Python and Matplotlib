@@ -1,3 +1,9 @@
+layout: post
+title: Option Strategies and Volatility: an Animation Sample using Python and Matplotlib
+---
+
+###  Option Strategies and Volatility: an Animation Sample using Python and Matplotlib
+
 When it comes to trading in options, you have to be aware that risk becomes “multidimensional”.
 You will face risks coming from multiple variables: not just the price of the underlying asset, but also volatility, time, interest rates could harm your trading strategy.
 And it’s not so obvious which of these variable has the biggest effect.
