@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Metis NY Data Science Bootcamp - Final Project!
+title: Option Volatility Animation Sample
 ---
 
-###  Optimizing Options Trading on Financial Markets
+###  Stock Options Strategies: Watch Volatility very closely!
 
 
-The idea for the final project came to me quite easily.
+When it comes to trading in options, you have to be aware that risk becomes “multidimensional”.
+You will face risks coming from multiple variables: not just the price of the underlying asset, but also volatility, time, interest rates could harm your trading strategy.
+And it’s not so obvious which of these variable has the biggest effect.
+Obviously it can change depending upon the situation you have, but look at the wide effects of a sudden doubling of the implied volatility (not an usual event, but even not so rare).
+A sold condor strategy like that displayed in the below video could more than halve its at now profits (all other things being equal) even when you are just two days away from the expiration date.
 
-Through the past 5 years I developed a bunch of indicators that are working quite well in real trading on stocks and future markets,
-so, this was the right occasion for me to translate them into Python and to draw an automatic "signal caller" from them.
-
-I decided to choose Options as target of the trading signals in order to aim the predictions to "range of prices" instead of
-"exact prices", since the second task is much harder to be accomplished than the first one.
-
-In fact, while the model turned out to be very good in designing a range of price movement through a month, was pretty lost
-when focused on predicting the exact final price of the month, as expected.
-
-I tried various machine learning algorithms to train my model, but finally the Ridge, Lasso and Elastic Net variants
-of the generalized Linear Regression models got the job done in the best way, with results even more accurate than my best reasonable expectations.
+I know the graph is quite sketchy, but I intentionally wanted to show how, even by sticking to basic Python tools, some good viz stuff can be created. 
