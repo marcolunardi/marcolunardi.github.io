@@ -20,4 +20,4 @@ I know the graph is quite sketchy, but I intentionally wanted to show how some e
 
 
 
-[Options Strategy Animation](marcolunardi.github.io/volatility.mp4)
+[Options Strategy Animation](https://github.com/marcolunardi/marcolunardi.github.io/blob/master/volatility.mp4)
